@@ -29,4 +29,4 @@ A couple of more things: MS Teams flips the camera horizontally, so we should fl
 Now, in MS Teams, open settings and select the current camera; if it's working, you should see a preview! :partying_face:
 ![alt text](img/5.png)
 
-## I hope that this guide helped! :partying_face:
+## I hope that this guide helped! :partying_face: 

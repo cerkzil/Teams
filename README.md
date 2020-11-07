@@ -26,7 +26,7 @@ Now you wanna add a source, you have two main chooses Display Capture - for full
 Couple more things MS Teams flips the camera horizontally so we should flip the source horizontally too. Right Click on Display Capture > Transform > Flip Horizontally. After we do all that we just click start virtual camera and open MS Teams.
 ![alt text](img/4.png)
 
-Now in MS Teams open settings and select camera if it's working you should see a preview! :partying_face:
+Now in MS Teams open settings and select the right camera, if it's working you should see a preview! :partying_face:
 ![alt text](img/5.png)
 
 ## I hope this guide helped! :partying_face:

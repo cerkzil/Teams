@@ -1,42 +1,35 @@
-# How to ScreenShare for multible people on MS TEAMS
+# How to ScreenShare for multiple people on MS Teams
 
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Getting Started](#start)
 
 ## About <a name = "about"></a>
 
 Since MS Teams doesn't support mutiple people sharing their screens and nobody really wants to just use a webcam to share their face or are conserned about recording the call if they do. We should instead use free and open source tool [OBS](https://obsproject.com/). There are many other software that are capble of doing "virtual webcam" just google this term if obs doesn't work or you want to use something else.
 
-## Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "start"></a>
 
 To get started you first will need to go download: [OBS](https://obsproject.com/).
-And you will also need desktop version of [Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app)
+
+And you will also need desktop version of [Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app).
+
 I won't show you how to install MS Teams. :upside_down_face:
 
 ### Installing & Configuring
 
 First download OBS by choosing windows, clicking on the installer and click next until it's installed.
 ![alt text](img/1.png)
-After you lauched OBS for the first time you will be greeted with auto-configuration wizard.
+
+After you lauched OBS for the first time you will be greeted with auto-configuration wizard. Just pick virutal camera option and apply.
 ![alt text](img/2.png)
+
+Now you wanna add a source, you have two main chooses Display Capture - for full screensharing, Windows Capture for specific window capture. For now just selected Display Capture and click OK.
 ![alt text](img/3.png)
 
-```
-Give the example
-```
+Couple more things MS Teams flips the camera horizontally so we should flip the source horizontally too. Right Click on Display Capture > Transform > Flip Horizontally. After we do all that we just click start virtual camera and open MS Teams.
+![alt text](img/4.png)
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+Now in MS Teams open settings and select camera if it's working you should see a preview! :partying_face:
+![alt text](img/5.png)

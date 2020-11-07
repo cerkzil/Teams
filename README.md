@@ -21,7 +21,9 @@ I won't show you how to install MS Teams. :upside_down_face:
 
 First download OBS by choosing windows, clicking on the installer and click next until it's installed.
 ![alt text](img/1.png)
-Say what the step will be
+After you lauched OBS for the first time you will be greeted with auto-configuration wizard.
+![alt text](img/2.png)![alt text](img/3.png)
+![alt text](img/4.png)![alt text](img/5.png)![alt text](img/6.png)
 
 ```
 Give the example
